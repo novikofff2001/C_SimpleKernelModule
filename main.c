@@ -45,4 +45,4 @@ module_exit(kernel_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Novikov Nikita");
-MODULE_DESCRIPTION("A simple Hello World module");
+MODULE_DESCRIPTION("A simple Hello World kernel module");
